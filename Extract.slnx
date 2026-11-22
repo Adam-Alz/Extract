@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Extract.Core/Extract.Core.csproj" />
+  <Project Path="src/Extract.UI/Extract.UI.csproj" />
+</Solution>
