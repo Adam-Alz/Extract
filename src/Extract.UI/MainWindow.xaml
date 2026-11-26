@@ -5,6 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Extract.UI"
         mc:Ignorable="d"
-        Title="Extract" Height="450" Width="800">
-    <Grid/>
+        Title="Extract" Height="450" Width="800"
+        Background="Black">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="267" Margin="342,102,0,0" VerticalAlignment="Top" Width="384" Source="/Capture d’écran 2026-09-06 020207.png"/>
+    </Grid>
 </Window>

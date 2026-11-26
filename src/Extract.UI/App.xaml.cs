@@ -1,6 +1,7 @@
 ﻿using System.Configuration;
 using System.Data;
 using System.Windows;
+using Extract.Core;
 
 namespace Extract.UI
 {
@@ -9,6 +10,7 @@ namespace Extract.UI
     /// </summary>
     public partial class App : Application
     {
+        
     }
 
 }
